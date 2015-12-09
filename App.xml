@@ -1,0 +1,120 @@
+<xml>
+  <navigation type="tabs" backgroundColor="" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="" textSize="" textFont="" iosStyleNavigation="">
+    <items>
+      <item icon="menuicon.png" text="Live Cameras" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-signal.png" text="Still Cameras" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="playicon.png" text="104.7 KREV-LP" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="icon-map.png" text="Contact Us" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <targetplatform simulator="iPad">iPhone</targetplatform>
+  <template price="199.99" id="CoffeeShop" scaleWebPagesToBaseResolution="false" topadtype="admob" bottomadtype="admob" globalLogo="" isUniversalApp="false" />
+  <prop id="appname" title="App Name">EPCAMSTEST</prop>
+  <cloudhosted>3</cloudhosted>
+  <appstorelink>
+  </appstorelink>
+  <description>Eric%20Calkins%20Photography%20gives%20you%20your%20%231%20source%20for%20live%20HD%20webcams%20from%20Estes%20Park%2C%20Colorado%2C%20Rocky%20Mountain%20National%20Park%2C%20and%20surrounding%20areas!</description>
+  <keywords>estes%20park%2C%20estes%20park%20webcams%2C%20rocky%20mountain%20national%20park</keywords>
+  <primarycat>14</primarycat>
+  <secondarycat>19</secondarycat>
+  <external>0</external>
+  <admobpublisher id="iOS" interstitialUnitId="ca-app-pub-4045543788801840/5193742902" />
+  <planname>Basic</planname>
+  <shineeffect>false</shineeffect>
+  <file id="appStyles.xml" newsfile="yes">
+  </file>
+  <hostedresources>
+  </hostedresources>
+  <restrictedaccess>
+    <feature id="geofences" enabled="true" />
+    <feature id="pushnotifications" enabled="true" />
+    <feature id="announcements" enabled="true" />
+    <feature id="calendar" enabled="true" />
+    <feature id="coupon" enabled="true" />
+    <feature id="loyalty" enabled="true" />
+    <feature id="productorder" enabled="true" />
+  </restrictedaccess>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="No, Thanks" remindmessage="Remind Me Later" actionmessage="Rate It Now" />
+  <ads allowUsingAdvertisingId="true" />
+  <doubleclickpublisher unitId="kGADAdSizeSmartBannerLandscape" />
+  <pollfish apiKey="eaa4d96f-8c0a-407e-8ab5-e6a85a25b1cf" padding="0" position="na" />
+  <revmobappid id="5657daea2379b8c41d79743a" />
+  <scads refreshRate="30" />
+  <googleanalyticsid id="UA-2252353-4" />
+  <localizablelanguage value="eng" />
+  <paypalappid id="" />
+  <fbapp apikey="352658574809825" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="" />
+  <pdftron licenseKey="" />
+  <rotationapp>true</rotationapp>
+  <webView bouncesEnabled="false" hideLoadingAnimation="false" externalSiteZoomEnabled="false" />
+  <sharepointclient url="" username="" password="" />
+  <googleMaps androidApiV2Key="" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <locationServices startupAuthorizationType="auto">
+    <inUseDescription>
+    </inUseDescription>
+    <alwaysDescription>
+    </alwaysDescription>
+  </locationServices>
+  <inAppSettings>
+    <setting id="forceSync" enabled="true" />
+    <setting id="clearResources" enabled="false" />
+    <setting id="restoreInAppPurchase" enabled="false" />
+  </inAppSettings>
+  <page id="tab4.html" type="stripesmenu" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no">
+  </page>
+  <page id="Youtube.html" type="mobileyoutube" kind="html" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Youtube" logo="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" />
+  <page id="tab2.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Estes Park Webcams" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="true" hideLoadingAnimation="false">
+  </page>
+  <page id="tab3.html" type="audiostream" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <file id="Icon-60@2x.png" newsfile="no" />
+  <file id="magazinemenupagearrow.png" newsfile="no" />
+  <file id="magazine_icon.png" newsfile="no" />
+  <appStoreProperties>
+    <recentChanges>First release!</recentChanges>
+    <reviewContact firstName="abrS/lptSREH4XmqnSEEPA==" lastName="BFXLyY6qyiPlOMvYwbRZuA==" email="FgYeXxtPNpXuUas3jNnv0pb2O0XXyKIC+p1hZDatVU8=" phone="QibkxxQt9PNP9XeMvWKIfA==" />
+    <reviewDemoAccount username="IHaY6r0u6J00zaivwVajwA==" password="mmbw0qmJdpbWs0YWna+wUw==" />
+    <primaryLanguage>6</primaryLanguage>
+    <privacyPolicy url="http://" />
+    <supportUrl>http://www.ericcalkins.com/contact/</supportUrl>
+    <marketingUrl>http://</marketingUrl>
+    <publisherReviewAppleID>FgYeXxtPNpXuUas3jNnv0pb2O0XXyKIC+p1hZDatVU8=</publisherReviewAppleID>
+    <publisherReviewNotes>mmbw0qmJdpbWs0YWna+wUw==</publisherReviewNotes>
+    <copyright>sKP98M7+4WoMmXz81UCzEQIpZvTsI0A3sLpxnKkrU44=</copyright>
+  </appStoreProperties>
+  <gameSubcategory1>0</gameSubcategory1>
+  <gameSubcategory2>0</gameSubcategory2>
+  <magazineSubcategory1>0</magazineSubcategory1>
+  <magazineSubcategory2>0</magazineSubcategory2>
+  <page id="contactme.html" type="form" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Contact Eric" logo="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" />
+  <page id="churchshopseast.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="churchshopswest.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="estesparkresort.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="fairgroundseast.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="fairgroundswest.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="glenhaven1.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="prospectcam.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="villagesouth.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="villagenorth.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="mpec.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="theshirtrackwest.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="lumpyridge.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="longspeak.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <file id="login_register.xml" newsfile="yes" />
+  <page id="rateandreview1.html" type="rateandreview" kind="native" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" />
+  <page id="mobilefacebook1.html" type="mobilefacebook" kind="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" />
+  <page id="aboutus1.html" type="aboutus" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="theshirtrackeast.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <pushstatus>push_enabled</pushstatus>
+  <backgroundmodes audio="yes" />
+  <version build="2">1.0</version>
+  <bundlename>EP Webcams</bundlename>
+  <syncenabled>true</syncenabled>
+  <infobuttonenabled>false</infobuttonenabled>
+  <page id="tab1.html" type="gridmenu" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Estes Park Live Webcams" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="native1.html" type="native_page" kind="native" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" nativeClass="native1ViewController" />
+</xml>
