@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>EPCAMS</title>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0">
+  <meta name="apple-touch-fullscreen" content="YES">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="apple-touch-icon" href="icon.png">
+</head>
+<body><script src="http://content.jwplatform.com/libraries/d9bk5K1h.js"></script>
+<div id="myElement">Loading the player...</div>
+<script type="text/javascript">
+var playerInstance = jwplayer("myElement");
+playerInstance.setup({
+    file: "http://stream.ericcalkins.com/theshirtrackwest/index.m3u8",
+    image: "http://images.ericcalkins.com/theshirtrackwest.jpg",
+    width: "100%",
+    height: "auto",
+    autostart: "true",
+    controls: "true",
+    title: "Downtown Estes Park, CO",
+    description: "A live stream of Estes Park, CO!",
+    mediaid: "theshirtrackwest"
+});
+</script></body>
+</html>
